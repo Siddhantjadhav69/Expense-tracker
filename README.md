@@ -1,5 +1,3 @@
-Here is a sample **README.md** file for your **Expense-tracker** project. You can tweak sections like features, setup instructions, etc. to match your actual code and future enhancements.
-
 ````md
 # Expense-Tracker
 
