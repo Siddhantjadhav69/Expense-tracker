@@ -108,12 +108,11 @@ If there is a frontend and a backend part, you may need to start both separately
 
 Once the application is running:
 
-1. Register or log in (if authentication is implemented).
-2. Add income or expense entries by selecting category, amount, date, description.
-3. View transaction history.
-4. Filter or search transactions by date/category.
-5. See summary / analytics (charts, totals).
-6. Edit or delete entries as needed.
+1. Add income or expense entries by selecting category, amount, date, description.
+2. View transaction history.
+3. Filter or search transactions by date/category.
+4. See summary / analytics (charts, totals).
+5. Edit or delete entries as needed.
 
 Include screenshots or GIFs here to demonstrate UI if available.
 
