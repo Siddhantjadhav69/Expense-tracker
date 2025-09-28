@@ -37,7 +37,7 @@ Here are some planned / implemented features:
 - User authentication (optional / future)  
 - Responsive UI for different screen sizes  
 
-You can adjust this list as you implement features.
+
 
 ## Tech Stack
 
@@ -49,9 +49,6 @@ Here are the technologies being used (or planned):
 | Backend | (e.g. Node.js / Express / Flask / Django / etc.) |
 | Database | (e.g. MongoDB, MySQL, PostgreSQL, SQLite, etc.) |
 | Tools / Libraries | (e.g. charting library, date handling, state management, CSS framework) |
-
-> The repository currently shows languages JavaScript (~52%) and TypeScript (~48%) :contentReference[oaicite:1]{index=1}  
-> (You should update this section based on the actual stack.)
 
 ## Getting Started
 
@@ -135,8 +132,6 @@ Some things to add or improve:
 * Unit tests & integration tests
 * Deployment scripts
 
-Feel free to add your own items as the project evolves.
-
 ## Contributing
 
 Contributions are welcome! Here’s how you can help:
@@ -147,25 +142,11 @@ Contributions are welcome! Here’s how you can help:
 4. Push your branch: `git push origin feature/YourFeature`
 5. Create a Pull Request
 
-Please ensure your code is well tested and follows consistent style. Add documentation or comments where needed.
-
-## License
-
-Specify the license under which your project is released (e.g. MIT, Apache 2.0, etc.). For example:
-
-```
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy …
-```
-
-(Replace with your actual license text.)
 
 ## Contact
-
-Your name / handle
+Siddhat Jadhav
 Project link: [https://github.com/Siddhantjadhav69/Expense-tracker](https://github.com/Siddhantjadhav69/Expense-tracker)
-Email: [your.email@example.com](mailto:your.email@example.com)
+Email: [siddhantjadhav@workmail.com](mailto:siddhantjadhav@workmail.com)
 
 ---
 
